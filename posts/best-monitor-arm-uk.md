@@ -95,7 +95,7 @@ One thing the three numbers do not cover: the moment the screen lifts off its st
 
 ## How we chose
 
-Home Setup Picks is new, and we'd rather be straight about method than imply miles we haven't driven: these are spec-checked picks, not long-term tests. That means we verified each product's live listing, compared the published ratings - screen size, weight range, VESA support, mounting options, warranty - and scored them on the same rubric every guide on this site uses. Where a listing publishes less, the score says so rather than filling gaps with optimism, which is exactly what happened to the budget pick's capability number. No sponsored placements, and no prices or star ratings repeated here - listings drift, so check the live page.
+Home Setup Picks is new, and we'd rather be straight about method than imply miles we haven't driven: these are spec-checked picks, not long-term tests. That means we verified each product's live listing, compared the published ratings - screen size, weight range, VESA support, mounting options, warranty - and scored them against the same criteria we use on every guide. Where a listing publishes less, the score says so rather than filling gaps with optimism, which is exactly what happened to the budget pick's capability number. No sponsored placements, and no prices or star ratings repeated here - listings drift, so check the live page.
 
 ## FAQ
 
@@ -109,7 +109,7 @@ A: Check the back for four screw holes in a 75mm or 100mm square, or search your
 A: The Ergotron is the only pick here rated for ultrawides by name, up to 34 inches and 11.3kg. A light ultrawide can sit within the HUANUO's 9kg and 32in ratings on paper, but wide panels twist an arm harder than their weight suggests, so we'd match an ultrawide to the arm that's rated for it.
 
 **Q: What about dual-monitor arms?**
-A: This guide covers single arms only. A dual arm doubles the load maths and halves the margin for error, so we'll cover them separately once we've done the checking properly.
+A: This guide covers single arms only. A dual arm doubles the load maths and halves the margin for error, so a dual arm gets a guide of its own rather than a footnote in this one.
 
 **Q: Why do cheap monitor arms sag?**
 A: Usually a mismatch, not a defect: the panel sits at the top of the arm's rated range, so the spring or friction joints hold it at the limit of what they can do. Buying with weight headroom - and tightening the tension screws the manual points to - prevents most of it.

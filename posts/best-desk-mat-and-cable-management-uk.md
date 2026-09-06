@@ -66,7 +66,7 @@ Most desk-tidying goes wrong because the cables get routed before anyone decides
 
 ## When a tray beats a box
 
-A box lives where the block lives: on the floor, at the back of the desktop, inside a cupboard. A tray fixes underneath the desktop, screwed or clamped depending on the model, and carries the block with the desk, which is what a sit-stand owner really wants, since a floor-standing box turns every height change into a tug of war with the lead. We haven't named a tray here. Nothing we looked at this week cleared the checks we run before a product gets named on this site, and we'd rather leave the slot empty.
+A box lives where the block lives: on the floor, at the back of the desktop, inside a cupboard. A tray fixes underneath the desktop, screwed or clamped depending on the model, and carries the block with the desk, which is what a sit-stand owner really wants, since a floor-standing box turns every height change into a tug of war with the lead. We haven't named a tray here. Nothing we looked at was good enough for us to put our name to, and we would rather leave the gap than point you at a tray we are not sure about.
 
 ## Quick verdict
 
@@ -74,7 +74,7 @@ If the desktop itself is the problem, start with the **[Nordik Leather Desk Mat 
 
 ## How we chose
 
-Neither of these has lived on our desk for months, so the honest label is spec-checked, and we'd rather say that than imply a test we haven't run. We read each live listing, took only the figures it genuinely publishes, put both through the scoring we apply site-wide, and left the blanks blank instead of filling them with adjectives. Where a maker makes a claim about its own product, as D-Line does about its ABS shell, we say whose claim it is. Nothing here is paid for. We publish no price and no star rating on purpose: whatever the live page shows you today is more accurate than anything we could freeze into this one.
+Neither of these has lived on our desk for months, so the honest label is spec-checked, and we'd rather say that than imply a test we haven't run. We read each live listing, took only the figures it genuinely publishes, scored both against the same criteria we use on every guide, and left the blanks blank instead of filling them with adjectives. Where a maker makes a claim about its own product, as D-Line does about its ABS shell, we say whose claim it is. Nothing here is paid for. We publish no price and no star rating on purpose: whatever the live page shows you today is more accurate than anything we could freeze into this one.
 
 ## FAQ
 
