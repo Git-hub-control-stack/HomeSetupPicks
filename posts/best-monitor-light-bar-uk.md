@@ -6,9 +6,9 @@ Put an ordinary lamp on a desk in front of a screen and a good share of its ligh
 
 ### 1. Xiaomi Mi LED Computer Monitor Light Bar (BHR4838GL, Wireless Dial, 2700-6500K) - Best Overall
 
-**HSP Score: 8.4 / 10** - Wireless dial control across a 2700K-6500K colour-temperature range. The sensible default.
+**HSP Score: 8.3 / 10** - Wireless dial control across a 2700K-6500K colour-temperature range. The sensible default.
 
-Scorecard: Capability 7/10 - Versatility 7/10 - Build 6/10 - Value 8/10
+Scorecard: Capability 8.3/10 - Versatility 8.3/10 - Build 7.8/10 - Value 8.7/10
 
 What keeps it off a 10: It adjusts colour temperature by hand rather than sensing the room, so getting it right takes an extra step the auto-dimming bars skip.
 
@@ -31,9 +31,9 @@ The Xiaomi goes on most desks for one reason: it is the only pick here that puts
 
 ### 2. Quntis 52cm Computer Monitor Lamp Bar (Auto-Dimming, 100 LED, Ra95) - Best Budget
 
-**HSP Score: 7.9 / 10** - 52cm auto-dimming lamp bar with 100 LEDs. The spend-less route.
+**HSP Score: 8.5 / 10** - 52cm auto-dimming lamp bar with 100 LEDs. The spend-less route.
 
-Scorecard: Capability 7/10 - Versatility 8/10 - Build 6/10 - Value 8/10
+Scorecard: Capability 8.4/10 - Versatility 8.8/10 - Build 7.9/10 - Value 8.8/10
 
 What keeps it off a 10: No colour temperature and no brightness figure we could verify, so two of the three things this guide leads with stay blank.
 
@@ -56,9 +56,9 @@ The Quntis is the spend-less pick and still does something the overall pick cann
 
 ### 3. BenQ ScreenBar Monitor Light Bar (Auto-Dimming, Glare-Free, USB) - Best Premium
 
-**HSP Score: 8.2 / 10** - Auto-dimming, glare-free, and USB powered. The buy-once pick.
+**HSP Score: 8.7 / 10** - Auto-dimming, glare-free, and USB powered. The buy-once pick.
 
-Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 6/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.0/10
 
 What keeps it off a 10: It is the only pick here with no colour-rendering figure we could verify, on the one number this guide treats as decisive.
 
