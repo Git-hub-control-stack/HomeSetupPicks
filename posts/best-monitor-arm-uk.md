@@ -8,9 +8,7 @@ A monitor arm is bought on three numbers, and most of the ways an arm disappoint
 
 **HSP Score: 8.6 / 10** - Tool-free height adjustment, 9kg rating, both VESA patterns. The sensible default.
 
-Scorecard: Capability 8.7/10 - Versatility 9.2/10 - Build 7.8/10 - Valu
-
-What keeps it off a 10: Its listing makes no warranty promise we could verify, and a heavy 32in panel sits close to the 9kg ceiling with little headroom.e 8.7/10
+Scorecard: Capability 8.7/10 - Versatility 9.2/10 - Build 7.8/10 - Value 8.7/10
 
 What keeps it off a 10: Its listing makes no warranty promise we could verify, and a heavy 32in panel sits close to the 9kg ceiling with little headroom.
 
@@ -36,9 +34,7 @@ The HUANUO covers the widest slice of real desks, which is why it leads. Its lis
 
 **HSP Score: 8.3 / 10** - Steel height-adjustable arm with cable routing. The spend-less route.
 
-Scorecard: Capability 8.0/10 - Versatility 8.5/10 - Build 8.0/10 - Valu
-
-What keeps it off a 10: The listing publishes no weight or screen-size rating we could verify, so a heavy or unusual monitor is a gamble here.e 8.9/10
+Scorecard: Capability 8.0/10 - Versatility 8.5/10 - Build 8.0/10 - Value 8.9/10
 
 What keeps it off a 10: The listing publishes no weight or screen-size rating we could verify, so a heavy or unusual monitor is a gamble here.
 
@@ -63,9 +59,7 @@ The honest budget case: if your monitor is a common size and your desk has a nor
 
 **HSP Score: 8.8 / 10** - Rated for ultrawides to 34in and 11.3kg, with a 10-year warranty. The buy-once pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.5/10 - Build 9.8/10 - Value
-
-What keeps it off a 10: Its published range starts at 3.2kg, so a very light panel sits outside what this arm is rated to carry. 8.0/10
+Scorecard: Capability 8.9/10 - Versatility 8.5/10 - Build 9.8/10 - Value 8.0/10
 
 What keeps it off a 10: Its published range starts at 3.2kg, so a very light panel sits outside what this arm is rated to carry.
 
