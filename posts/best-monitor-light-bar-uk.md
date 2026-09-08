@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 8.5/10 - Build 8.0/10 - Value 8.9/10 
 
 Fit for this guide: Most desks want a bar that moves from warm to cool, and this one puts a range on it: 2700K to 6500K, at Ra95.
 
-What keeps it off a 10: It adjusts colour temperature by hand rather than sensing the room, so getting it right takes an extra step the auto-dimming bars skip.
-
 The Xiaomi goes on most desks for one reason: it is the only pick here that puts a number on colour temperature. Xiaomi quotes 2700K to 6500K, moved with a wireless dial, so one bar covers a cool white for the morning and something warmer for the end of the day. Colour rendering is quoted at Ra95, the same figure the budget pick treats as its floor, so what you gain over the cheaper bar is control rather than accuracy. What you give up is the sensor. The dial is wireless, but it is still a dial, and the bar holds whatever you last set until you reach over and change it. Those figures are Xiaomi's own specification rather than anything the listing spells out, by the way: the retailer listing commits to little beyond the model code, so read the range as the maker's claim.
 
 **Pros**
@@ -39,8 +37,6 @@ Scorecard: Capability 8.5/10 - Versatility 8.9/10 - Build 8.0/10 - Value 8.9/10 
 
 Fit for this guide: Auto-dimming across 100 LEDs at a stated 52cm and Ra95 suits a reader who wants the light handled.
 
-What keeps it off a 10: No colour temperature and no brightness figure we could verify, so two of the three things this guide leads with stay blank.
-
 The Quntis is the spend-less pick and still does something the overall pick cannot: its listing title says Auto Dimming, so it manages its own brightness as the room changes rather than leaving that to you. The same title gives a 52cm bar with 100 LEDs and calls it ultrawide, which matters more than it sounds. It is the only pick here that publishes a length at all, so it is the only one you can hold up against the width of your own screen before ordering. Quntis rates the colour rendering at Ra95 or higher, which is the maker's figure rather than a measurement of ours. What nobody will tell you is the colour temperature: no range, no single value, nothing. So you get the automation and the colour accuracy, and you find out what its white actually looks like when it arrives.
 
 **Pros**
@@ -65,8 +61,6 @@ The Quntis is the spend-less pick and still does something the overall pick cann
 Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.0/10 - Fit 8.0/10
 
 Fit for this guide: Auto-dimming with a glare-free claim and USB power fits readers who want the bar to run itself.
-
-What keeps it off a 10: It is the only pick here with no colour-rendering figure we could verify, on the one number this guide treats as decisive.
 
 BenQ puts Auto Dimming and Glare-Free in the product name itself, which is the plainest statement of intent of the three: the bar is meant to handle its own brightness and to keep its light off the glass. BenQ lists it as USB powered too, so a spare port is all it asks for rather than another plug at the wall. Colour temperature adjusts here as well, but no range comes with it that we could verify, and there is no colour-rendering figure either. That is a strange pair of gaps on the premium pick, and it means our step-up choice is also the one that publishes least. What you are paying for is the sensor, the glare claim in the product name, and a build we rate above the other two.
 
