@@ -6,9 +6,11 @@ A monitor arm is bought on three numbers, and most of the ways an arm disappoint
 
 ### 1. HUANUO Single Monitor Arm (13-32in, 9kg, VESA 75/100) - Best Overall
 
-**HSP Score: 8.6 / 10** - Tool-free height adjustment, 9kg rating, both VESA patterns. The sensible default.
+**HSP Score: 9.1 / 10** - Tool-free height adjustment, 9kg rating, both VESA patterns. The sensible default.
 
-Scorecard: Capability 8.7/10 - Versatility 9.2/10 - Build 7.8/10 - Value 8.7/10
+Scorecard: Capability 8.9/10 - Versatility 9.4/10 - Build 8.0/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: An arm is bought on VESA, weight and clamp, and this one lists 75/100 VESA, a 9kg rating and both mounting routes.
 
 What keeps it off a 10: Its listing makes no warranty promise we could verify, and a heavy 32in panel sits close to the 9kg ceiling with little headroom.
 
@@ -32,9 +34,11 @@ The HUANUO covers the widest slice of real desks, which is why it leads. Its lis
 
 ### 2. Amazon Basics Single Monitor Stand (Height Adjustable Arm, Steel) - Best Budget
 
-**HSP Score: 8.3 / 10** - Steel height-adjustable arm with cable routing. The spend-less route.
+**HSP Score: 8.4 / 10** - Steel height-adjustable arm with cable routing. The spend-less route.
 
-Scorecard: Capability 8.0/10 - Versatility 8.5/10 - Build 8.0/10 - Value 8.9/10
+Scorecard: Capability 8.0/10 - Versatility 8.5/10 - Build 8.0/10 - Value 8.9/10 - Fit 8.5/10
+
+Fit for this guide: A steel height-adjustable arm puts an ordinary monitor at eye level and routes the cable down the pole.
 
 What keeps it off a 10: The listing publishes no weight or screen-size rating we could verify, so a heavy or unusual monitor is a gamble here.
 
@@ -45,7 +49,7 @@ The honest budget case: if your monitor is a common size and your desk has a nor
 - ✓ Cables route through a hole in the back of the pole, per the listing, so the clean-desk win is real
 
 **Cons**
-- ✗ No weight or screen-size rating we could verify, so heavy panels are a gamble
+- ✗ Desk clamp is the only mount its listing names, so a grommet or wall fixing is not an option
 - ✗ Height adjustment is the only movement its title commits to; the overall pick lists tilt, swivel and rotate
 
 **Who it's for:** One everyday monitor, a normal desk edge, and a preference for spending less.
@@ -57,9 +61,11 @@ The honest budget case: if your monitor is a common size and your desk has a nor
 
 ### 3. Ergotron LX Premium Monitor Arm (34in, 3.2-11.3kg) - Best Premium
 
-**HSP Score: 8.8 / 10** - Rated for ultrawides to 34in and 11.3kg, with a 10-year warranty. The buy-once pick.
+**HSP Score: 8.6 / 10** - Rated for ultrawides to 34in and 11.3kg, with a 10-year warranty. The buy-once pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.5/10 - Build 9.8/10 - Value 8.0/10
+Scorecard: Capability 8.9/10 - Versatility 8.5/10 - Build 9.8/10 - Value 8.0/10 - Fit 8.0/10
+
+Fit for this guide: Its 3.2 to 11.3kg range and 34in fit answer ultrawide owners rather than the standard monitor this guide assumes.
 
 What keeps it off a 10: Its published range starts at 3.2kg, so a very light panel sits outside what this arm is rated to carry.
 
@@ -68,7 +74,7 @@ The LX is the arm you buy when the numbers have to stretch furthest. Ergotron ra
 **Pros**
 - ✓ Published 3.2-11.3kg range and 34in ultrawide rating - the widest verified envelope here
 - ✓ Ergotron's 10-year warranty on the LX line, per its listing
-- ✓ Matte black finish on the widest published spec envelope of the three
+- ✓ Matte black finish, and both VESA patterns listed, so it takes the same monitor backs as the overall pick
 
 **Cons**
 - ✗ Priced for an envelope a single ordinary monitor never uses

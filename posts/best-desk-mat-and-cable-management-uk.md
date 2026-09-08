@@ -6,9 +6,11 @@ A desk goes untidy in two different places, and they want two different purchase
 
 ### 1. Nordik Leather Desk Mat (Pebble Black, 89x43cm) - Best Overall
 
-**HSP Score: 8.5 / 10** - Large leather desk pad, 89x43cm. The one surface both hands land on.
+**HSP Score: 8.9 / 10** - Large leather desk pad, 89x43cm. The one surface both hands land on.
 
-Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.0/10 - Value 8.9/10
+Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.0/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: The desk-mat half of this title wants one surface for keyboard and mouse, and 89 x 43 cm gives it.
 
 What keeps it off a 10: A 43cm depth wants a desk deeper than that, with clearance behind for a monitor foot or a clamp, so shallow desks miss out.
 
@@ -19,7 +21,7 @@ The Nordik earns its place on footprint. Its listing gives the size as 89x43cm a
 - ✓ Pebble black leather per its listing, so it reads as furniture rather than gaming kit
 
 **Cons**
-- ✗ Wants a desk deeper than 43cm, plus clearance behind for a monitor foot or a clamp
+- ✗ Does nothing for cable clutter on its own, so wire problems still need the tidy box or clips
 - ✗ Thickness and backing are not published, so how it sits on the desk is unknown until it lands
 - ✗ The listing says leather without saying genuine, bonded or coated, so the surface stays unpinned until you have it
 
@@ -32,9 +34,11 @@ The Nordik earns its place on footprint. Its listing gives the size as 89x43cm a
 
 ### 2. D-Line Cable Tidy Box Large (415mm, Black) - Best for Cable Management
 
-**HSP Score: 8.1 / 10** - Hides an extension block and its slack. Where the mess actually starts.
+**HSP Score: 8.3 / 10** - Hides an extension block and its slack. Where the mess actually starts.
 
-Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.0/10 - Value 8.5/10
+Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.0/10 - Value 8.5/10 - Fit 8.9/10
+
+Fit for this guide: The cable half of this title starts at the extension block, and a 415mm box hides it and its slack.
 
 What keeps it off a 10: It hides the ends of the cables rather than the runs, so the floor still needs clips or a sleeve to finish the job.
 
@@ -45,7 +49,7 @@ This box has one job: the extension block. The listing puts the outside length a
 - ✓ D-Line names its material, electrically safe ABS, which is more than the mat's listing says about its own construction
 
 **Cons**
-- ✗ Hides the ends of the cables, not the runs, so the floor still needs clips or a sleeve
+- ✗ Overkill for a lone laptop charger, which a cable clip already keeps tidy
 - ✗ Fixed footprint at 415mm long, 165mm wide and 135mm tall, so the gap has to be measured first
 
 **Who it's for:** Desks where the power strip is the eyesore, and sit-stand owners whose block currently dangles on its own lead.

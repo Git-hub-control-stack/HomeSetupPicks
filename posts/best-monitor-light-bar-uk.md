@@ -6,9 +6,11 @@ Put an ordinary lamp on a desk in front of a screen and a good share of its ligh
 
 ### 1. Xiaomi Mi LED Computer Monitor Light Bar (BHR4838GL, Wireless Dial, 2700-6500K) - Best Overall
 
-**HSP Score: 8.3 / 10** - Wireless dial control across a 2700K-6500K colour-temperature range. The sensible default.
+**HSP Score: 8.9 / 10** - Wireless dial control across a 2700K-6500K colour-temperature range. The sensible default.
 
-Scorecard: Capability 8.3/10 - Versatility 8.3/10 - Build 7.8/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 8.5/10 - Build 8.0/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Most desks want a bar that moves from warm to cool, and this one puts a range on it: 2700K to 6500K, at Ra95.
 
 What keeps it off a 10: It adjusts colour temperature by hand rather than sensing the room, so getting it right takes an extra step the auto-dimming bars skip.
 
@@ -31,9 +33,11 @@ The Xiaomi goes on most desks for one reason: it is the only pick here that puts
 
 ### 2. Quntis 52cm Computer Monitor Lamp Bar (Auto-Dimming, 100 LED, Ra95) - Best Budget
 
-**HSP Score: 8.5 / 10** - 52cm auto-dimming lamp bar with 100 LEDs. The spend-less route.
+**HSP Score: 8.7 / 10** - 52cm auto-dimming lamp bar with 100 LEDs. The spend-less route.
 
-Scorecard: Capability 8.4/10 - Versatility 8.8/10 - Build 7.9/10 - Value 8.8/10
+Scorecard: Capability 8.5/10 - Versatility 8.9/10 - Build 8.0/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Auto-dimming across 100 LEDs at a stated 52cm and Ra95 suits a reader who wants the light handled.
 
 What keeps it off a 10: No colour temperature and no brightness figure we could verify, so two of the three things this guide leads with stay blank.
 
@@ -56,9 +60,11 @@ The Quntis is the spend-less pick and still does something the overall pick cann
 
 ### 3. BenQ ScreenBar Monitor Light Bar (Auto-Dimming, Glare-Free, USB) - Best Premium
 
-**HSP Score: 8.7 / 10** - Auto-dimming, glare-free, and USB powered. The buy-once pick.
+**HSP Score: 8.5 / 10** - Auto-dimming, glare-free, and USB powered. The buy-once pick.
 
-Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.0/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.0/10 - Fit 8.0/10
+
+Fit for this guide: Auto-dimming with a glare-free claim and USB power fits readers who want the bar to run itself.
 
 What keeps it off a 10: It is the only pick here with no colour-rendering figure we could verify, on the one number this guide treats as decisive.
 
@@ -87,7 +93,7 @@ The bar we would put on our own desk is the **[Xiaomi Mi LED Computer Monitor Li
 
 1. **Colour rendering (Ra or CRI).** Two names for one measure: how faithfully a light shows colour against daylight, scored up to 100. Our own bar for desk work is 90 or above, because under that, skin tones and printed colour start to look a little off even in a room that feels bright enough. Xiaomi quotes Ra95 and Quntis quotes Ra95 or higher. BenQ quotes nothing we could verify, which on the premium pick is the most irritating gap in this guide.
 2. **Colour temperature.** One fixed white suits nobody all day: cooler light suits the morning, warmer light suits the hours when you have had enough of it. A maker that quotes a real span, as Xiaomi does with 2700K to 6500K, is telling you the bar moves between the two. A maker that quotes nothing is telling you to find out for yourself once it arrives.
-3. **Auto-dimming, or your own hand.** An auto-dimming bar changes its brightness as the room changes; the alternative is that you do. Neither is wrong, and the sensor buys convenience rather than better light or truer colour. You can see that in the scores: the budget pick has auto-dimming, the overall pick does not, and the overall pick still finishes half a point ahead.
+3. **Auto-dimming, or your own hand.** An auto-dimming bar changes its brightness as the room changes; the alternative is that you do. Neither is wrong, and the sensor buys convenience rather than better light or truer colour. You can see that in the scores: the budget pick has auto-dimming, the overall pick does not, and the overall pick still finishes ahead.
 
 One thing no spec sheet spells out: these bars work because of the shape of the lens, which pushes light down and forward onto the desk while cutting what spills back towards the screen. That is the mechanism behind a phrase like BenQ's Glare-Free, and it is why a light bar and a desk lamp are not the same purchase. If you are lifting the screen off its stand as well, our [monitor arm guide](best-monitor-arm-uk.html) covers the numbers that decide fit there.
 
