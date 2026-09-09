@@ -2,7 +2,7 @@ Hero images - source and licence record
 =========================================
 Pexels photos: https://www.pexels.com/license/ (free for commercial use, no attribution required).
 Owned photos: the editor's own product photographs. All cropped to 1200x630.
-Updated 2026-09-07 via fetch_heroes.py
+Updated 2026-09-09 via fetch_heroes.py
 
 accessories.jpg  Josh Sorenson  https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/
 audio.jpg  Melike  B  https://www.pexels.com/photo/white-apple-airpods-on-macbook-10357008/
@@ -11,3 +11,4 @@ desks.jpg  Pavel Danilyuk  https://www.pexels.com/photo/a-monitor-on-a-height-ad
 posts/best-desk-mat-and-cable-management-uk.jpg  Click Jeth  https://www.pexels.com/photo/a-keyboard-on-a-desk-18156191/
 posts/best-monitor-arm-uk.jpg  Josh Sorenson  https://www.pexels.com/photo/streaming-computer-setup-10782398/
 posts/best-monitor-light-bar-uk.jpg  Pew Nguyen  https://www.pexels.com/photo/a-computer-and-modern-devices-on-the-desk-17136622/
+posts/best-webcam-for-work-calls-uk.jpg  Aksa2011  https://pixabay.com/photos/camera-webcam-computer-internet-1219748/ (Pixabay)
