@@ -6,7 +6,7 @@
   <atom:link href="https://homesetuppicks.co.uk/feed-accessories.xml" rel="self" type="application/rss+xml" />
   <description>UK buying guides for monitor arms, desk mats, laptop stands and sleeves, lighting and cable management.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 03 Sep 2026 15:00:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 16:26:55 +0000</lastBuildDate>
   <item>
     <title>Best Monitor Arm UK 2026</title>
     <link>https://homesetuppicks.co.uk/posts_html/best-monitor-arm-uk.html</link>
@@ -27,6 +27,13 @@
     <guid isPermaLink="true">https://homesetuppicks.co.uk/posts_html/best-monitor-light-bar-uk.html</guid>
     <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
     <description>Best monitor light bar in the UK for 2026. Spec-checked and honestly compared, with hands-on notes where we own the product.</description>
+  </item>
+  <item>
+    <title>Best Laptop Stand UK 2026</title>
+    <link>https://homesetuppicks.co.uk/posts_html/best-laptop-stand-uk.html</link>
+    <guid isPermaLink="true">https://homesetuppicks.co.uk/posts_html/best-laptop-stand-uk.html</guid>
+    <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Best laptop stand in the UK for 2026. Spec-checked and honestly compared, with hands-on notes where we own the product.</description>
   </item>
 </channel>
 </rss>
