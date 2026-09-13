@@ -114,6 +114,9 @@ A: This guide covers single arms only. A dual arm doubles the load maths and hal
 **Q: Why do cheap monitor arms sag?**
 A: Usually a mismatch, not a defect: the panel sits at the top of the arm's rated range, so the spring or friction joints hold it at the limit of what they can do. Buying with weight headroom - and tightening the tension screws the manual points to - prevents most of it.
 
+**Q: How high should I set the monitor on the arm?**
+A: Bring the top of the screen level with your eyes, about an arm's length away. Our [monitor height guide](monitor-height-explained.html) walks through the HSE rule and how to check it for your own height. An arm makes hitting that mark easy, because you set the height by hand rather than living with a fixed stand.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://homesetuppicks.co.uk/disclosure.html) for details.*

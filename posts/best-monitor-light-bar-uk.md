@@ -98,7 +98,7 @@ None of these three has been on our desk, so the label is spec-checked rather th
 ## FAQ
 
 **Q: Does a monitor light bar actually reduce glare on the screen?**
-A: That is what the shape is for. The light is aimed down at the desk instead of out at the screen, so much less of it bounces off the glass back at you. It is an angle fix rather than a medical one, and it will do nothing about a bright window sitting behind your monitor.
+A: That is what the shape is for. The light is aimed down at the desk instead of out at the screen, so much less of it bounces off the glass back at you. It is an angle fix rather than a medical one, and it will do nothing about a bright window sitting behind your monitor. Glare is one half of a comfortable view; the [screen's height](monitor-height-explained.html) is the other.
 
 **Q: What do Ra and CRI mean, and why does the number matter?**
 A: They are two names for the same measure: how accurately a light shows colour compared with daylight, scored up to 100. We look for 90 or above for desk work. Below that, colours under the light can look washed out even in a room that feels perfectly bright.

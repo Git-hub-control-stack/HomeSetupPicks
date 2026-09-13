@@ -83,7 +83,7 @@ A: A stack of books does the same physical job - it lifts the screen. What a sta
 A: For a desk you sit at every day, a fixed riser is usually the better buy: it is more rigid and has nothing to slip. An adjustable stand is worth it when the height genuinely needs to change - a shared desk, or a stand that folds up to travel. Pick the fixed one unless you can name the reason you need movement.
 
 **Q: Will these raise my screen enough on their own?**
-A: A riser lifts the screen a good deal - the mStand's own figure is 150mm - but enough depends on your chair and desk height. The target is the top of the screen near eye level. If a riser alone still leaves you looking down, that is usually a sign the laptop needs an external monitor at the right height rather than a taller stand.
+A: A riser lifts the screen a good deal - the mStand's own figure is 150mm - but enough depends on your chair and desk height. The target is the [top of the screen near eye level](monitor-height-explained.html). If a riser alone still leaves you looking down, that is usually a sign the laptop needs an external monitor at the right height rather than a taller stand.
 
 **Q: Can I use a laptop stand with an external monitor?**
 A: Yes, and it is a common setup. The stand lifts the laptop to act as a second screen, and you match it to the height of your main monitor so the two line up. A [monitor arm](best-monitor-arm-uk.html) is the easiest way to get the main screen to the same level.
