@@ -40,3 +40,6 @@ A: About an arm's length, in the HSE's words, which for most people is roughly t
 
 **Q: My monitor's own stand will not go high enough. What now?**
 A: That is common, because built-in stands often sit low. Raise the screen the rest of the way with something under the foot, or swap to a [monitor arm](best-monitor-arm-uk.html) that sets any height you like. For a laptop, a [stand](best-laptop-stand-uk.html) with a separate keyboard does the same job.
+
+**Q: Does the same rule apply on a standing desk?**
+A: Yes. Raising a sit-stand desk lifts the monitor with it, but the eye-level target does not move, so you check the screen height again once you are standing. Our [standing desk height guide](standing-desk-height-explained.html) covers setting the desk itself to elbow height in both positions.
