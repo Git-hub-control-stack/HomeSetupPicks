@@ -28,7 +28,7 @@ Two things change the real numbers. A thick desktop adds its own height on top o
 
 The maximum height on most frames is generous, because a desk that will not rise high enough for a tall person is an obvious failure the maker designs out. The minimum is the one that catches people, and it catches shorter users first.
 
-If your seated elbow height sits below a frame's lowest setting, the desk is stuck too high the moment you sit down. You are left reaching up to a keyboard that is above your elbows, or raising the chair so far that your feet leave the floor, which is the problem a footrest exists to patch rather than the desk you wanted. A frame that drops low enough is worth more to a shorter person than one that rises to a dramatic standing height they will rarely use. When you put two desks side by side, compare their minimums first.
+If your seated elbow height sits below a frame's lowest setting, the desk is stuck too high the moment you sit down. You are left reaching up to a keyboard that is above your elbows, or raising the chair so far that your feet leave the floor, which is the problem a footrest exists to patch rather than the desk you wanted. A frame that drops low enough is worth more to a shorter person than one that rises to a dramatic standing height they will rarely use. When you put two desks side by side, compare their minimums first. If you are still deciding which desk to put in the room in the first place, our guide to the [best standing desks for a small home office](best-standing-desk-small-home-office-uk.html) works through fitting one to a tight space.
 
 ## The monitor still has to reach eye level
 
