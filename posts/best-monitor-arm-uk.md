@@ -87,7 +87,7 @@ For most desks the **[HUANUO Single Monitor Arm (13-32in, 9kg, VESA 75/100)](htt
 
 ## Check the three numbers before you buy
 
-1. **VESA pattern.** Look at the back of your monitor for four screw holes in a square - 75x75mm or 100x100mm. The overall and premium picks take both (the budget pick publishes no VESA figure we could verify), but a few slim monitors have no holes at all and need an adapter plate from the monitor's maker before any arm will fit.
+1. **VESA pattern.** Look at the back of your monitor for four screw holes in a square - 75x75mm or 100x100mm. The overall and premium picks take both (the budget pick publishes no VESA figure we could verify), but a few slim monitors have no holes at all and need an adapter plate from the monitor's maker before any arm will fit. Our [guide to whether a monitor arm will fit your monitor](monitor-arm-vesa-compatibility-explained.html) walks through finding the pattern, reading the weight rating and the no-holes case in full.
 2. **Panel weight.** It's in your monitor's spec sheet, stand excluded. Compare it to the arm's published rating and leave headroom: an arm loaded to its ceiling drifts and sags sooner than one cruising at half load.
 3. **Desk edge.** A clamp needs a few centimetres of clear, solid edge - not glass, and not on top of a cross-beam. If the edge is awkward, the overall pick lists a grommet option that bolts through a cable hole instead.
 
