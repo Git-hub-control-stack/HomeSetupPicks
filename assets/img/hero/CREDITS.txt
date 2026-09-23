@@ -2,7 +2,7 @@ Hero images - source and licence record
 =========================================
 Pexels photos: https://www.pexels.com/license/ (free for commercial use, no attribution required).
 Owned photos: the editor's own product photographs. All cropped to 1200x630.
-Updated 2026-09-22 via fetch_heroes.py
+Updated 2026-09-23 via fetch_heroes.py
 
 accessories.jpg  Josh Sorenson  https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/
 audio.jpg  Melike  B  https://www.pexels.com/photo/white-apple-airpods-on-macbook-10357008/
@@ -16,6 +16,7 @@ posts/best-office-chair-under-300-uk.jpg  McFollis  https://www.pexels.com/photo
 posts/best-speakerphone-for-work-calls-uk.jpg  Cedric Fauntleroy  https://www.pexels.com/photo/woman-in-front-of-a-laptop-talking-on-the-phone-8154157/
 posts/best-standing-desk-small-home-office-uk.jpg  LinkedIn Sales Navigator  https://www.pexels.com/photo/a-woman-wearing-a-blazer-using-a-smartphone-3867848/
 posts/best-webcam-for-work-calls-uk.jpg  Aksa2011  https://pixabay.com/photos/camera-webcam-computer-internet-1219748/ (Pixabay)
+posts/laptop-stand-cooling-explained.jpg  Karina Finger  https://www.pexels.com/photo/modern-laptop-on-stand-with-mouse-34502055/
 posts/monitor-arm-vesa-compatibility-explained.jpg  Jakub Zerdzicki  https://www.pexels.com/photo/clear-screens-mockup-17828687/
 posts/monitor-height-explained.jpg  Skylar Kang  https://www.pexels.com/photo/flatscreen-on-top-of-a-desk-6045232/
 posts/standing-desk-height-explained.jpg  Pavel Danilyuk  https://www.pexels.com/photo/a-white-height-adjustable-desk-8001034/

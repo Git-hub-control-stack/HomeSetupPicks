@@ -77,7 +77,7 @@ A riser is a simple object, and a spec read tells you most of what matters. Even
 ## FAQ
 
 **Q: Do I actually need a laptop stand, or is a stack of books fine?**
-A: A stack of books does the same physical job - it lifts the screen. What a stand adds is stability, airflow underneath, and not having a tower of books slide around. If you only want the screen up for the odd call, books will do; for a desk you use all day, a rigid riser is steadier and lets air move around the machine.
+A: A stack of books does the same physical job - it lifts the screen. What a stand adds is stability, airflow underneath, and not having a tower of books slide around. If you only want the screen up for the odd call, books will do; for a desk you use all day, a rigid riser is steadier and lets air move around the machine. How much that airflow really does for heat is its own question - [does a laptop stand help with cooling](laptop-stand-cooling-explained.html) covers what a stand can and cannot do.
 
 **Q: Is a fixed riser or an adjustable stand better for a home office?**
 A: For a desk you sit at every day, a fixed riser is usually the better buy: it is more rigid and has nothing to slip. An adjustable stand is worth it when the height genuinely needs to change - a shared desk, or a stand that folds up to travel. Pick the fixed one unless you can name the reason you need movement.
