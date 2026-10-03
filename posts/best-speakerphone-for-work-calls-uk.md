@@ -105,7 +105,7 @@ Ranking came down to a single test: on a daily call from one fixed desk, does th
 A: For the odd quick call, no. But a laptop microphone sits far from your mouth and picks up the fan and the keyboard, and its speakers echo back into that same microphone, which is what makes people ask you to repeat yourself. A speakerphone puts a proper microphone array near you and tunes the speaker so it does not feed back, so you sound clearer and calls feel less like hard work.
 
 **Q: Is a speakerphone or a headset better for work calls?**
-A: It depends on where you sit. A speakerphone is hands-free and natural, with nothing to wear over a long day, which suits a private room. A headset or a pair of earbuds keeps the call to you and sounds cleaner to the other side in a noisy or shared space. Plenty of people keep both and choose by the day.
+A: It depends on where you sit. A speakerphone is hands-free and natural, with nothing to wear over a long day, which suits a private room. A [headset](best-office-headset-for-work-calls-uk.html) or a pair of earbuds keeps the call to you and sounds cleaner to the other side in a noisy or shared space. Plenty of people keep both and choose by the day.
 
 **Q: How many microphones do I actually need?**
 A: At a solo desk, four is plenty. Large microphone counts are built to cover a table of people in a meeting room; on your own, an arm's length from the unit, a focused four-microphone speakerphone hears you clearly and drags less of the room into the call.
