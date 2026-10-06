@@ -2,7 +2,7 @@ Hero images - source and licence record
 =========================================
 Pexels photos: https://www.pexels.com/license/ (free for commercial use, no attribution required).
 Owned photos: the editor's own product photographs. All cropped to 1200x630.
-Updated 2026-10-05 via fetch_heroes.py
+Updated 2026-10-06 via fetch_heroes.py
 
 accessories.jpg  Josh Sorenson  https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/
 audio.jpg  Melike  B  https://www.pexels.com/photo/white-apple-airpods-on-macbook-10357008/
@@ -26,4 +26,5 @@ posts/laptop-stand-cooling-explained.jpg  Karina Finger  https://www.pexels.com/
 posts/monitor-arm-vesa-compatibility-explained.jpg  Jakub Zerdzicki  https://www.pexels.com/photo/clear-screens-mockup-17828687/
 posts/monitor-height-explained.jpg  Skylar Kang  https://www.pexels.com/photo/flatscreen-on-top-of-a-desk-6045232/
 posts/monitor-riser-vs-monitor-arm.jpg  Alpha En  https://www.pexels.com/photo/modern-home-office-with-ergonomic-chair-and-desk-31236092/
+posts/office-chair-height-explained.jpg  Curtis Adams  https://www.pexels.com/photo/brown-wooden-table-with-chair-4682135/
 posts/standing-desk-height-explained.jpg  Pavel Danilyuk  https://www.pexels.com/photo/a-white-height-adjustable-desk-8001034/
