@@ -120,6 +120,9 @@ A: Usually a mismatch, not a defect: the panel sits at the top of the arm's rate
 **Q: How high should I set the monitor on the arm?**
 A: Bring the top of the screen level with your eyes, about an arm's length away. Our [monitor height guide](monitor-height-explained.html) walks through the HSE rule and how to check it for your own height. An arm makes hitting that mark easy, because you set the height by hand rather than living with a fixed stand.
 
+**Q: Can a monitor arm help with screen glare?**
+A: It can, by letting you swivel and tilt the screen off a reflection without moving the whole desk. The HSE's steer is to find the light causing the glare first, then angle the screen away from it, and an arm turns that last step into a two-second adjustment. Our [guide to stopping screen glare](screen-glare-explained.html) covers the full routine, from the mirror test to where filters finally fit.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://homesetuppicks.co.uk/disclosure.html) for details.*
