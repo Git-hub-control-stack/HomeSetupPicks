@@ -115,7 +115,7 @@ A: Buy a whole desk if your wall is a fairly standard width, because it is less 
 A: You cannot test it through a listing, but three-stage legs, a wider foot and a heavier frame all point to a steadier desk at full height. Read them together rather than trusting any one, and treat a frame that quotes a serious weight as a good sign rather than a drawback.
 
 **Q: Do I need a dual-motor desk in a small room?**
-A: Dual motors lift more evenly under an uneven load, such as a monitor on one side and nothing on the other, which is common on a small desk. It is a reasonable thing to want, but the width that fits your room matters more than the motor count, so settle the size first and treat the motors as a tie-breaker.
+A: Dual motors lift more evenly under an uneven load, such as a monitor on one side and nothing on the other, which is common on a small desk. It is a reasonable thing to want, but the width that fits your room matters more than the motor count, so settle the size first and treat the motors as a tie-breaker. If you are trying to work out whether your kit is anywhere near a frame's limit, our guide to [standing desk weight capacity](standing-desk-weight-capacity-explained.html) shows how to add up your load.
 
 **Q: What height should I actually set it to?**
 A: Set it to your own body rather than a number on the box, in both sitting and standing positions, and save each to a memory preset if the desk has them. Our [standing desk height guide](standing-desk-height-explained.html) covers how to measure your two elbow heights and check a frame's range against them.
