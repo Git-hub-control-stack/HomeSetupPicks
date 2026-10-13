@@ -132,6 +132,9 @@ A: Almost always, because that is where it draws power. The thing to check is wh
 **Q: What laptop size does each pad take?**
 A: Match the pad's stated range to your machine, because a pad built for smaller laptops will leave a large one overhanging with its hottest corner off the fans. The pads here run up to 17 inches, but sizes vary between models, so check the listing's figure against your own laptop rather than assuming it fits.
 
+**Q: It is the room that feels hot, not the laptop. Do I need a pad at all?**
+A: Then a cooling pad is the wrong tool, because it only moves air at the machine. What you want is a fan that cools you and the room, and our [quiet desk fan guide](best-quiet-desk-fan-uk.html) covers the options that stay quiet enough for a working day. A pad is for a laptop that runs hot or throttles; a fan is for a warm room.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://homesetuppicks.co.uk/disclosure.html) for details.*
