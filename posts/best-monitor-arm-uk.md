@@ -100,7 +100,7 @@ Home Setup Picks is new, and we'd rather be straight about method than imply mil
 ## FAQ
 
 **Q: Will a monitor arm fit my desk?**
-A: If the desk has a few centimetres of solid, accessible edge, a clamp fits. Glass desks, very thick tops and edges with support beams underneath are the usual blockers - measure the edge thickness against the arm listing's clamp range, or use a grommet mount through a cable hole where the arm includes one.
+A: If the desk has a few centimetres of solid, accessible edge, a clamp fits. Glass desks, very thick tops and edges with support beams underneath are the usual blockers - measure the edge thickness against the arm listing's clamp range, or use a grommet mount through a cable hole where the arm includes one. Our [full desk-fit check](monitor-arm-desk-fit-explained.html) measures the edge and walks the grommet route in detail.
 
 **Q: How do I know if my monitor is VESA compatible?**
 A: Check the back for four screw holes in a 75mm or 100mm square, or search your monitor's model number plus "VESA". Monitors without holes need the maker's own adapter bracket, if one exists, before any arm here will take them.

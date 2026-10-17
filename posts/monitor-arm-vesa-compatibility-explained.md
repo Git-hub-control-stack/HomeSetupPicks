@@ -28,7 +28,7 @@ Two honest cautions come with that route. The adapter is its own purchase, not a
 
 Fit is not only about the monitor. An arm has to grab the desk, and it does that one of two ways, so the desk gets a vote as well. A clamp pinches the desk edge between a top plate and a screw pad from below, which suits most desks that have a free, solid edge a few centimetres deep. A grommet mount instead drops a bolt through a hole in the desktop and tightens underneath, which is the answer when the edge will not take a clamp, because it is pushed against a wall, thicker than the clamp opens, or a sheet of glass a clamp would strain.
 
-Better arms list both fittings and include the parts for each; a cheaper one may name only the clamp. It is worth checking which one your desk needs before you order, because the wrong fitting means the arm turns up and will not go on at all. If lifting the screen off its stand leaves a tangle of cable on show, which it usually does, the tidy-up is its own small job that our [desk mat and cable management guide](best-desk-mat-and-cable-management-uk.html) covers.
+Better arms list both fittings and include the parts for each; a cheaper one may name only the clamp. It is worth checking which one your desk needs before you order, because the wrong fitting means the arm turns up and will not go on at all. Our [guide to whether an arm fits your desk](monitor-arm-desk-fit-explained.html) measures the edge out in full and covers glass tops and the grommet route. If lifting the screen off its stand leaves a tangle of cable on show, which it usually does, the tidy-up is its own small job that our [desk mat and cable management guide](best-desk-mat-and-cable-management-uk.html) covers.
 
 ## Once it fits, put it at the right height
 
