@@ -82,7 +82,7 @@ Neither of these has lived on our desk for months, so the honest label is spec-c
 A: They fix different halves of the same complaint. The mat changes what you look at and rest on; the box changes what you see under and behind the desk. If you only want one, pick the half that annoys you when you sit down.
 
 **Q: What size desk mat should I get?**
-A: Measure your keyboard plus the space your mouse actually travels, then check your desk is deeper than the mat before you order. Width is the easy half to get right; the back edge is where orders go wrong, especially once a monitor foot or an arm clamp is sitting there.
+A: If you have not yet decided whether you want a full mat or [just a mouse pad](desk-mat-vs-mouse-pad-explained.html), settle that first. Measure your keyboard plus the space your mouse actually travels, then check your desk is deeper than the mat before you order. Width is the easy half to get right; the back edge is where orders go wrong, especially once a monitor foot or an arm clamp is sitting there.
 
 **Q: How do I hide cables on a desk without drilling?**
 A: A box for the block, adhesive clips along the underside of the desktop for the runs, and a sleeve for the drop to the floor. That covers most desks with nothing screwed in. Trays and channels are the step up, and those usually do want fixing to the desk.
