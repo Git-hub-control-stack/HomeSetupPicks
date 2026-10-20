@@ -2,7 +2,7 @@ Hero images - source and licence record
 =========================================
 Pexels photos: https://www.pexels.com/license/ (free for commercial use, no attribution required).
 Owned photos: the editor's own product photographs. All cropped to 1200x630.
-Updated 2026-10-19 via fetch_heroes.py
+Updated 2026-10-20 via fetch_heroes.py
 
 accessories.jpg  Josh Sorenson  https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/
 audio.jpg  Melike  B  https://www.pexels.com/photo/white-apple-airpods-on-macbook-10357008/
@@ -26,6 +26,7 @@ posts/best-webcam-for-work-calls-uk.jpg  Aksa2011  https://pixabay.com/photos/ca
 posts/best-wrist-rest-uk.jpg  Pew Nguyen  https://www.pexels.com/photo/colorful-mechanical-keyboard-on-wooden-desk-38094555/
 posts/desk-mat-vs-mouse-pad-explained.jpg  Josh Sorenson  https://www.pexels.com/photo/black-computer-keyboard-on-brown-wooden-table-9469522/
 posts/headset-anc-vs-noise-cancelling-mic-explained.jpg  Pavel Danilyuk  https://www.pexels.com/photo/black-corded-headphones-on-black-headphones-7658198/
+posts/how-deep-should-a-home-office-desk-be.jpg  dada _design  https://www.pexels.com/photo/lampshade-and-notebook-on-a-wooden-table-12278554/
 posts/laptop-stand-cooling-explained.jpg  Karina Finger  https://www.pexels.com/photo/modern-laptop-on-stand-with-mouse-34502055/
 posts/monitor-arm-desk-fit-explained.jpg  Jakub Zerdzicki  https://www.pexels.com/photo/laptop-on-a-wooden-desk-25636747/
 posts/monitor-arm-vesa-compatibility-explained.jpg  Jakub Zerdzicki  https://www.pexels.com/photo/clear-screens-mockup-17828687/
