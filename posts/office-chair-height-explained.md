@@ -10,7 +10,7 @@ With the arms sorted, the screen follows, not the chair. If your eyes no longer 
 
 ## Two checks once you are sitting
 
-With the height right, two quick checks tell you whether the seat itself fits you. The first is your thighs. The HSE's good-posture guidance asks that the "seat height equally supports front and back of thighs", with a "gap of 2-3 cm between front of seat bottom and back of knee" so the front edge of the seat is not catching the soft part behind your knee. A seat with a depth slide is what you use to find that gap.
+With the height right, two quick checks tell you whether the seat itself fits you. The first is your thighs. The HSE's good-posture guidance asks that the "seat height equally supports front and back of thighs", with a "gap of 2-3 cm between front of seat bottom and back of knee" so the front edge of the seat is not catching the soft part behind your knee. A [seat depth slider](office-chair-seat-depth-explained.html) is what you use to find that gap.
 
 The second is your shoulders. A seat set a shade low leaves you reaching up to the desk and lifting your shoulders to do it. The guidance is the plain opposite: "relax your shoulders" and "position yourself high enough so you don't need to shrug your shoulders". A straight back against the chair with your shoulders dropped, rather than hitched up towards your ears, is the sign the height is working with you.
 
