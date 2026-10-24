@@ -106,7 +106,7 @@ Our test was a single working day of wall-to-wall calls at one home desk, with t
 ## FAQ
 
 **Q: Do I need a headset, or will my laptop or a speakerphone do?**
-A: For the odd quick call a laptop is fine. For back-to-back calls a headset keeps the conversation to you, puts a proper microphone near your mouth, and in a shared home stops your calls filling the room. A [speakerphone](best-speakerphone-for-work-calls-uk.html) is the hands-free route, best in a room of your own where wearing something all day feels like too much; a fair number run both and pick by how the day's calls look.
+A: For the odd quick call a laptop is fine. For back-to-back calls a headset keeps the conversation to you, puts a proper microphone near your mouth, and in a shared home stops your calls filling the room. A [speakerphone](best-speakerphone-for-work-calls-uk.html) is the hands-free route, best in a room of your own where wearing something all day feels like too much; a fair number run both and pick by how the day's calls look. If you are choosing between the two before you buy, our [headset versus speakerphone explainer](headset-vs-speakerphone-for-work-calls.html) walks through which way the room points.
 
 **Q: Wired or wireless for a home desk?**
 A: A desk you sit at all day rarely needs wireless. Plug a wired headset in and it is simply always there, nothing to pair, nothing to recharge, no link to lose, which makes it the low-effort answer for a spot you never leave. Go wireless the moment you actually move on calls, or want your phone paired alongside the laptop; that is the line between the wired H390 and the cordless Evolve2 65.
