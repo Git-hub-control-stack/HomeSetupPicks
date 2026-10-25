@@ -109,7 +109,7 @@ A: Check the back for four screw holes in a 75mm or 100mm square, or search your
 A: The Ergotron is the only pick here rated for ultrawides by name, up to 34 inches and 11.3kg. A light ultrawide can sit within the HUANUO's 9kg and 32in ratings on paper, but wide panels twist an arm harder than their weight suggests, so we'd match an ultrawide to the arm that's rated for it.
 
 **Q: What about dual-monitor arms?**
-A: This guide covers single arms only. A dual arm doubles the load maths and halves the margin for error, so a dual arm gets a guide of its own rather than a footnote in this one.
+A: This guide covers single arms only. A dual arm doubles the load maths and halves the margin for error, so it gets a guide of its own: our [dual monitor arm guide](best-dual-monitor-arm-uk.html) picks three, with the per-arm weight and the shared desk edge explained.
 
 **Q: Should I get a monitor arm or a riser instead?**
 A: A riser is the simpler, cheaper lift when one screen sits in one place at a height that already suits you and never needs to move. An arm earns its extra cost when you want to change the position or clear the desk under the screen, and when your monitor has the VESA holes and the weight for it. Our [monitor riser or monitor arm guide](monitor-riser-vs-monitor-arm.html) works through that choice before you land on a product.
