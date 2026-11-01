@@ -115,7 +115,7 @@ A: This guide covers single arms only. A dual arm doubles the load maths and hal
 A: A riser is the simpler, cheaper lift when one screen sits in one place at a height that already suits you and never needs to move. An arm earns its extra cost when you want to change the position or clear the desk under the screen, and when your monitor has the VESA holes and the weight for it. Our [monitor riser or monitor arm guide](monitor-riser-vs-monitor-arm.html) works through that choice before you land on a product.
 
 **Q: Why do cheap monitor arms sag?**
-A: Usually a mismatch, not a defect: the panel sits at the top of the arm's rated range, so the spring or friction joints hold it at the limit of what they can do. Buying with weight headroom - and tightening the tension screws the manual points to - prevents most of it.
+A: Usually a mismatch, not a defect: the panel sits at the top of the arm's rated range, so the spring or friction joints hold it at the limit of what they can do. Buying with weight headroom - and tightening the tension screws the manual points to - prevents most of it. The kind of counterbalance inside the arm also decides how a sag is fixed, because a mechanical spring can be re-tensioned while a gas cylinder cannot: our [gas spring or mechanical spring arm guide](monitor-arm-gas-spring-vs-mechanical-explained.html) sets out the difference.
 
 **Q: How high should I set the monitor on the arm?**
 A: Bring the top of the screen level with your eyes, about an arm's length away. Our [monitor height guide](monitor-height-explained.html) walks through the HSE rule and how to check it for your own height. An arm makes hitting that mark easy, because you set the height by hand rather than living with a fixed stand.
