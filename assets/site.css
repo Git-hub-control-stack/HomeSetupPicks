@@ -1465,3 +1465,102 @@ body.sticky-dismissed .sticky-cta { display: none; }
   .footer-links a { display: inline-block; padding: 8px 2px; }
 }
 /* END PHONE BUY PATH */
+/* ===== HSP DARK PALETTE R3 - Rich cocoa, sand nav (operator pick 2026-11-05) ===== */
+/* Appended last so it wins over the earlier dark rules at equal or higher specificity.    */
+/* Wordmark: the ink PNG is a background on .brand-title and the img goes opacity 0 in     */
+/* dark mode (alt text stays for screen readers). Light theme untouched.                  */
+:root[data-theme="dark"] {
+  --text:       #f4efeb;
+  --text-soft:  #dbd2cc;
+  --muted:      #b6aca5;
+  --border:     #5a473a;
+  --border-mid: #6a5444;
+  --bg:         #3b2f26;
+  --bg-soft:    #43352b;
+  --bg-grey:    #4b3b30;
+  --blue-light: #524135;
+  --blue-mid:   #806552;
+  --amber-bg:   #4e3d32;
+  --green:      #5ee08f;
+  --red:        #ff8a80;
+  --pro-text:   #5ee08f;
+  --blue:       #e3b45f;
+  --blue-dark:  #ecbf74;
+  --blue-deep:  #322720;
+  --blue-ink:   #2c221c;
+  --ring:       0 0 0 3px rgba(236,191,116,.85);
+  --shadow-sm:  0 1px 2px rgba(0,0,0,.45), 0 1px 4px rgba(0,0,0,.35);
+  --shadow-md:  0 4px 10px rgba(0,0,0,.45), 0 12px 28px rgba(0,0,0,.5);
+}
+html[data-theme="dark"] .content p > a:not([class]), html[data-theme="dark"] .content li > a:not([class]),
+html[data-theme="dark"] .page-card p > a:not([class]), html[data-theme="dark"] .page-card li > a:not([class]) {
+  color: #ecbf74; text-decoration-color: rgba(236,191,116,0.5);
+}
+html[data-theme="dark"] .hero-title, html[data-theme="dark"] .page-hero .hero-title,
+html[data-theme="dark"] .h2-tight, html[data-theme="dark"] .h2-block,
+html[data-theme="dark"] .post-card strong { color: #f8f4ec; }
+html[data-theme="dark"] .content h2, html[data-theme="dark"] .page-card h2 { color: #ecdcb8; }
+html[data-theme="dark"] .content strong a { color: #ecbf74; }
+html[data-theme="dark"] .content h3 a:hover,
+html[data-theme="dark"] .content h2 a:hover { color: #ecbf74; }
+html[data-theme="dark"] .compare-table tbody td:nth-child(3) { color: #ecdcb8; }
+html[data-theme="dark"] .breadcrumbs a { color: #e6b45f; }
+html[data-theme="dark"] .post-card .card-cat { color: #e6b45f; }
+html[data-theme="dark"] .cat-section-title { color: #ecdcb8; }
+html[data-theme="dark"] .toc a.active { color: #ecdcb8; }
+html[data-theme="dark"] .handoff-text a { color: #ecbf74; }
+html[data-theme="dark"] .af-lead b a.af-pick { text-decoration-color: rgba(236,191,116,0.7); }
+html[data-theme="dark"] .hero.panel, html[data-theme="dark"] .hero-section,
+html[data-theme="dark"] .page-hero {
+  background: linear-gradient(180deg, #43352b 0%, #3b2f26 85%);
+}
+html[data-theme="dark"] .trust-item { background: #4b3b30; border-color: var(--border-mid); }
+html[data-theme="dark"] .spp-breakdown { background: #4b3b30; border-color: var(--border-mid); }
+html[data-theme="dark"] .compare-table tbody tr:first-child .cell-row,
+html[data-theme="dark"] .compare-table tbody tr:first-child .cell {
+  background: var(--amber-bg); border-bottom-color: #644f40;
+}
+html[data-theme="dark"] .compare-table tbody tr:first-child:hover .cell-row,
+html[data-theme="dark"] .compare-table tbody tr:first-child:hover .cell { background: #574538; }
+html[data-theme="dark"] .table-wrap {
+  background:
+    linear-gradient(to right, var(--bg) 30%, rgba(59,47,38,0)),
+    linear-gradient(to left,  var(--bg) 30%, rgba(59,47,38,0)) 100% 0,
+    radial-gradient(farthest-side at 0 50%, rgba(0,0,0,.6), transparent),
+    radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.6), transparent) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 44px 100%, 44px 100%, 16px 100%, 16px 100%;
+  background-attachment: local, local, scroll, scroll;
+}
+html[data-theme="dark"] .verdict-box { background: linear-gradient(180deg, #524135 0%, #4b3b30 100%); }
+html[data-theme="dark"] .sticky-cta { background: rgba(59,47,38,0.95); box-shadow: 0 -6px 24px rgba(0,0,0,.5); }
+html[data-theme="dark"] .home-hero {
+  background:
+    radial-gradient(700px 320px at 15% 0%, rgba(247,240,225,.09), transparent 60%),
+    radial-gradient(600px 300px at 90% 110%, rgba(207,141,28,0.1), transparent 55%),
+    linear-gradient(150deg, #4e3d32 0%, #44362c 55%, #3b2f26 100%);
+}
+html[data-theme="dark"] .back-to-top:hover { background: #5a473a; }
+html[data-theme="dark"] ::selection { background: #ecbf74; color: #2c221c; }
+@media (max-width: 700px) {
+  html[data-theme="dark"] #comparison .compare-table tr:first-child { border-color: #8a7a5c; }
+}
+/* -- Dark-mode header: the LIVE sand bar, kept (operator 2026-11-05: "i miss the lighter nav"). */
+/* Nav, hover, toggle and back link are the live light-mode rules. Three AA fixes:          */
+/* the ink wordmark (cream/gold PNG fails on sand: 1.83 / 1.33), a dark ring in the bar     */
+/* (gold ring 1.42) and the back link at full opacity (0.85 gives 4.13).                    */
+html[data-theme="dark"] .site-header {
+  background: linear-gradient(180deg, #c9b18f 0%, #bca47c 100%);
+  border-bottom: 1px solid rgba(59,47,31,.12);
+  box-shadow: 0 2px 16px rgba(0,0,0,.45);
+  --ring: 0 0 0 3px #3b2f1f;
+}
+html[data-theme="dark"] .brand-title {
+  background: url("img/brand/wordmark-header-ink.png") no-repeat left center / 230px 28px;
+}
+html[data-theme="dark"] .brand-wordmark { opacity: 0; }
+@media (max-width: 640px) {
+  html[data-theme="dark"] .brand-title { background-size: 197px 24px; }
+}
+html[data-theme="dark"] .back-link { opacity: 1; }
+/* ===== END HSP DARK PALETTE R3 ===== */
