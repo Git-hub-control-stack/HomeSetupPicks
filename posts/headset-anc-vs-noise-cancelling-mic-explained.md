@@ -12,6 +12,10 @@ Active noise cancellation, usually shortened to ANC, is the speaker-side feature
 
 Turn the same phrase around and it describes the opposite job. A noise-cancelling microphone cleans up the sound leaving your headset, so your voice reaches the call in front of the room rather than buried under it. A boom that reaches down towards your mouth is the plainest form, because it simply sits closer to your voice than to anything else in the room. More elaborate sets run several microphones at once and aim the pickup at your voice while holding the background behind it, which is what a name like Acoustic Fence is describing. If the complaint on your calls is that people keep hearing your kitchen or your keyboard, this is the side that answers it, and ANC will do nothing for it.
 
+## Noise cancelling headphones or a microphone on a stand?
+
+They work on opposite ends of the call, so one cannot stand in for the other. The noise cancelling in a pair of headphones changes what reaches your ears and does nothing for how you sound. A microphone on a desk stand changes what your caller hears and does nothing for what you hear. So pick by the complaint. If the room is drowning out the meeting for you, headphones with ANC are the fix. If the people on your calls hear your room, the microphone is, and placement counts for more than the stand itself: the further a desk mic is from you, the more of the room it picks up along with your voice. Plenty of home desks end up with both, headphones for listening and a separate desk microphone for sending, and wearing the headphones also keeps the call audio from leaking out of speakers and back into that microphone.
+
 ## Read the spec sheet for each one on its own
 
 Because the two features are independent, the only reliable way to buy is to find each line on the listing separately and not let the headline word stand in for both. The three headsets in our [office headset guide](best-office-headset-for-work-calls-uk.html) land in three different places:

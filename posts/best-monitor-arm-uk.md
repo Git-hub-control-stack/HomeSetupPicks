@@ -1,6 +1,6 @@
 # Best Monitor Arm UK 2026
 
-A monitor arm is bought on three numbers, and most of the ways an arm disappoints trace back to one of them: the VESA pattern on the back of your monitor, the weight the arm is rated to carry, and the edge of desk the clamp needs to grip. Get those three right and nearly any decent arm will hold a screen at eye level for years. Get one wrong and no brand name will save you. So this guide leads with the numbers: what each pick is actually rated for, per its own listing, and how to check your monitor and desk against them before you spend anything.
+Monitor arms are bought on three numbers, and most of the ways an arm disappoints trace back to one of them: the VESA pattern on the back of your monitor, the weight the arm is rated to carry, and the edge of desk the clamp needs to grip. Get those three right and nearly any decent arm will hold a screen at eye level for years. Get one wrong and no brand name will save you. So this guide leads with the numbers: what each pick is actually rated for, per its own listing, and how to check your monitor and desk against them before you spend anything.
 
 ## Top picks
 

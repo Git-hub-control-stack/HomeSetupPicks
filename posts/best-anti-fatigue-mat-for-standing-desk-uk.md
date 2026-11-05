@@ -1,6 +1,6 @@
 # Best Anti-Fatigue Mat for a Standing Desk UK 2026
 
-You raised the desk, and now you are stood on a hard floor for hours you used to spend in a chair. A standing mat is the thing that goes underneath, and choosing one is less about brand than about two questions most round-ups skip. The first is shape: a flat mat, or a contoured one with raised terrain you can move around on. The second is material, and it is the one nobody selling cheap foam will answer honestly, because what a mat is made of decides how long it keeps any cushion at all. Sort those two out and the rest is detail. This guide splits the choice by how you actually work, then says plainly what each pick is made of and what that buys you.
+You raised the desk, and now you are stood on a hard floor for hours you used to spend in a chair. A standing desk mat, usually sold as an anti-fatigue mat, is the layer that goes on the floor in front of it, and choosing one is less about brand than about two questions most round-ups skip. The first is shape: a flat mat, or a contoured one with raised terrain you can move around on. The second is material, and it is the one nobody selling cheap foam will answer honestly, because what a mat is made of decides how long it keeps any cushion at all. Sort those two out and the rest is detail. This guide splits the choice by how you actually work, then says plainly what each pick is made of and what that buys you.
 
 ## The decision most guides skip: flat or contoured
 

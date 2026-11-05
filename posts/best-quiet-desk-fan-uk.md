@@ -69,12 +69,12 @@ If it is the laptop itself that runs hot rather than you, a fan is the wrong too
 
 ## How we chose
 
-The order here comes down to one thing we kept testing against: could you leave this fan running all day, calls included, and stop noticing it was on? Coverage and oscillation are what make the Woozoo the answer for a whole room, so it leads; the Dreo takes the narrower case of a small desk where silence matters more than reach. We have not lived with either fan ourselves, so both sit in the spec-checked tier rather than the hands-on one, and every noise and airflow figure on this page is the maker's own rating lifted from the live listing, never something we measured or guessed. Nobody paid for a place here, and you will not find a price or a star count anywhere on the page, because both drift from week to week and a number pinned down today would only mislead you later.
+The order here comes down to one thing we kept checking against: could you leave this fan running all day, calls included, and stop noticing it was on? Coverage and oscillation are what make the Woozoo the answer for a whole room, so it leads; the Dreo takes the narrower case of a small desk where silence matters more than reach. We have not lived with either fan ourselves, so both sit in the spec-checked tier rather than the hands-on one, and every noise and airflow figure on this page is the maker's own rating lifted from the live listing, never something we measured or guessed. Nobody paid for a place here, and you will not find a price or a star count anywhere on the page, because both drift from week to week and a number pinned down today would only mislead you later.
 
 ## FAQ
 
 **Q: What counts as a quiet desk fan?**
-A: As a rough guide, anything the maker rates around the low 30s of decibels or below is quiet enough to sit beside you on a call, and the two here are rated at 28 and 35 decibels on their gentle settings. Remember that figure is the floor: every fan gets louder as you turn the speed up, so the quiet rating tells you how calm it can be, not how it sounds flat out.
+A: As a rough guide, anything the maker rates around the low 30s of decibels or below is quiet enough to sit beside you on a call, and the two here are rated at 28 and 35 decibels on their gentle settings. Remember that figure is the floor: every fan gets louder as you turn the speed up, so the quiet rating tells you how calm it can be, not how it sounds flat out. If your calls run through a [conference call speaker](best-speakerphone-for-work-calls-uk.html) on the desk, which hears the room around it rather than just your mouth, the gentle setting is the one to run.
 
 **Q: Which of these two should I buy?**
 A: If you want to cool the room and keep air moving while you work, the oscillating Iris Ohyama Woozoo is the all-round choice. If your desk is tight or you mainly want a near-silent breeze on yourself during calls, the smaller Dreo is the cheaper, quieter answer.
