@@ -1555,12 +1555,14 @@ html[data-theme="dark"] .site-header {
   box-shadow: 0 2px 16px rgba(0,0,0,.45);
   --ring: 0 0 0 3px #3b2f1f;
 }
-html[data-theme="dark"] .brand-title {
+/* Ink wordmark in BOTH themes (light too: operator approved 2026-11-05, "Yes, fix light logo"; */
+/* on the sand bar ink 'Home Setup' 6.27, deep gold 'Picks' 3.44 at the #bca47c worst end).    */
+.brand-title {
   background: url("img/brand/wordmark-header-ink.png") no-repeat left center / 230px 28px;
 }
-html[data-theme="dark"] .brand-wordmark { opacity: 0; }
+.brand-wordmark { opacity: 0; }
 @media (max-width: 640px) {
-  html[data-theme="dark"] .brand-title { background-size: 197px 24px; }
+  .brand-title { background-size: 197px 24px; }
 }
 html[data-theme="dark"] .back-link { opacity: 1; }
 /* ===== END HSP DARK PALETTE R3 ===== */
