@@ -52,7 +52,7 @@ The FIFINE proves how little you need to close the biggest gap, which is the one
 **Who it's for:** Anyone who wants their voice to jump from laptop-tinny to close and clear for the least outlay.
 **Who it's not for:** Anyone who wants to mute on the hardware, monitor themselves live, or switch pickup patterns.
 
-[Check price](https://www.amazon.co.uk/dp/B06XCKGLTP?linkCode=ll2&tag=homesetuppicks-21)
+[Check price](https://www.amazon.co.uk/dp/B06XQ39XCY?linkCode=ll2&tag=homesetuppicks-21)
 
 ---
 
@@ -83,7 +83,7 @@ The Wave:3 is the pick for someone whose voice is part of the product - a podcas
 
 ## Quick verdict
 
-For most home offices the one microphone to reach for is the **[Logitech G Blue Yeti USB Microphone](https://www.amazon.co.uk/dp/B00N1YPXW2?linkCode=ll2&tag=homesetuppicks-21)**: cardioid for solo calls, three more patterns for the day the job changes, and a gain dial, mute button and headphone socket all on the body. If you want the biggest jump for the smallest spend, the **[FIFINE K669B USB Condenser Microphone](https://www.amazon.co.uk/dp/B06XCKGLTP?linkCode=ll2&tag=homesetuppicks-21)** gives you a fixed cardioid capsule and a volume dial and asks nothing else of you, at the cost of on-mic monitoring and a hardware mute. And if your voice is part of the work - a podcast or a stream alongside the calls - the **[Elgato Wave:3 USB Condenser Microphone](https://www.amazon.co.uk/dp/B088HHWC47?linkCode=ll2&tag=homesetuppicks-21)** adds Clipguard, USB-C and app mixing, capture that rewards recording far more than it does a compressed meeting.
+For most home offices the one microphone to reach for is the **[Logitech G Blue Yeti USB Microphone](https://www.amazon.co.uk/dp/B00N1YPXW2?linkCode=ll2&tag=homesetuppicks-21)**: cardioid for solo calls, three more patterns for the day the job changes, and a gain dial, mute button and headphone socket all on the body. If you want the biggest jump for the smallest spend, the **[FIFINE K669B USB Condenser Microphone](https://www.amazon.co.uk/dp/B06XQ39XCY?linkCode=ll2&tag=homesetuppicks-21)** gives you a fixed cardioid capsule and a volume dial and asks nothing else of you, at the cost of on-mic monitoring and a hardware mute. And if your voice is part of the work - a podcast or a stream alongside the calls - the **[Elgato Wave:3 USB Condenser Microphone](https://www.amazon.co.uk/dp/B088HHWC47?linkCode=ll2&tag=homesetuppicks-21)** adds Clipguard, USB-C and app mixing, capture that rewards recording far more than it does a compressed meeting.
 
 ## Cardioid is the setting that matters
 
