@@ -107,7 +107,7 @@ These three trays are spec-checked, not hands-on, and we would rather say so pla
 A: A tightened clamp bears on the desk edge, so the thing to protect is that edge, not the desktop. The trays here use padded clamp faces that spread the grip, which a solid wood or laminate edge takes without complaint. A thin veneer, a glass top or a painted edge is where you would slip a scrap of felt or card under the clamp first.
 
 **Q: Can I still use a desk drawer with a tray fitted?**
-A: Often not, because a sliding tray wants the same space under the front edge that a centre drawer uses. If your desk has a drawer right where the keyboard would sit, plan to mount the tray off to one side of it, or check the tray clears the drawer before you buy.
+A: Often not, because a sliding tray wants the same space under the front edge that a centre drawer uses. If your desk has a drawer right where the keyboard would sit, plan to mount the tray off to one side of it, or check the tray clears the drawer before you buy. If you would rather give that under-desk space over to storage than a tray, our [filing cabinet guide](best-filing-cabinet-for-home-office-uk.html) covers mobile cabinets and pedestals that tuck into it.
 
 **Q: Does a keyboard tray work with a standing desk?**
 A: Yes. It clamps to the desktop and travels up and down with it, so the keyboard stays in reach at either height. There is nothing extra to set once it is on; it simply rides along with the surface as the desk moves.
