@@ -111,6 +111,9 @@ A: The one that fits your wall with room to move a chair, rather than the one wi
 **Q: Should I buy a whole desk or a frame and my own top?**
 A: Buy a whole desk if your wall is a fairly standard width, because it is less work and less chance of a sizing mistake. Choose a frame and your own board when the space is an awkward width and a stock desktop would leave a gap or overhang, since a cut-to-fit top is the only way to fill that wall properly.
 
+**Q: Should I buy a full standing desk or a cheaper sit-stand converter?**
+A: A full desk is the pick if you want one clean surface that stays set at every height and the room to spare for a new frame. A sit-stand converter sits on the desk you already own, costs less and lets you test a standing routine before replacing anything, at the price of a smaller surface and a less planted feel raised. Our guide to [a converter or a full standing desk](standing-desk-converter-vs-standing-desk.html) works through which suits your desk and budget.
+
 **Q: How do I know a desk will not wobble when I stand?**
 A: You cannot test it through a listing, but three-stage legs, a wider foot and a heavier frame all point to a steadier desk at full height. Read them together rather than trusting any one, and treat a frame that quotes a serious weight as a good sign rather than a drawback.
 
